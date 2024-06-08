@@ -1,0 +1,5 @@
+C:\Users\krist\source\repos\TestNow\TestNow\obj\Debug\net7.0\TestNow.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\TestNow\TestNow\obj\Debug\net7.0\TestNow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\TestNow\TestNow\obj\Debug\net7.0\TestNow.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\TestNow\TestNow\obj\Debug\net7.0\TestNow.AssemblyInfo.cs
+C:\Users\krist\source\repos\TestNow\TestNow\obj\Debug\net7.0\TestNow.csproj.CoreCompileInputs.cache
