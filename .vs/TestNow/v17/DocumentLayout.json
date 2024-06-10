@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{986152E7-23C9-4ECB-ACA7-9D248573192F}|TestNow\\TestNow.csproj|solutionrelative:testnow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986152E7-23C9-4ECB-ACA7-9D248573192F}|TestNow\\TestNow.csproj|c:\\users\\krist\\source\\repos\\testnow\\testnow\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{986152E7-23C9-4ECB-ACA7-9D248573192F}|TestNow\\TestNow.csproj|solutionrelative:testnow\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986152E7-23C9-4ECB-ACA7-9D248573192F}|TestNow\\TestNow.csproj|c:\\users\\krist\\source\\repos\\testnow\\testnow\\testnow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{986152E7-23C9-4ECB-ACA7-9D248573192F}|TestNow\\TestNow.csproj|solutionrelative:testnow\\testnow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{986152E7-23C9-4ECB-ACA7-9D248573192F}|TestNow\\TestNow.csproj|c:\\users\\krist\\source\\repos\\testnow\\testnow\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{986152E7-23C9-4ECB-ACA7-9D248573192F}|TestNow\\TestNow.csproj|solutionrelative:testnow\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986152E7-23C9-4ECB-ACA7-9D248573192F}|TestNow\\TestNow.csproj|c:\\users\\krist\\source\\repos\\testnow\\testnow\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{986152E7-23C9-4ECB-ACA7-9D248573192F}|TestNow\\TestNow.csproj|solutionrelative:testnow\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestNow",
-              "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\TestNow\\TestNow\\TestNow.csproj",
-              "RelativeDocumentMoniker": "TestNow\\TestNow.csproj",
-              "ToolTip": "C:\\Users\\krist\\source\\repos\\TestNow\\TestNow\\TestNow.csproj",
-              "RelativeToolTip": "TestNow\\TestNow.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-10T17:30:33.89Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -55,28 +38,29 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\TestNow\\TestNow\\Program.cs",
               "RelativeDocumentMoniker": "TestNow\\Program.cs",
-              "ToolTip": "C:\\Users\\krist\\source\\repos\\TestNow\\TestNow\\Program.cs*",
-              "RelativeToolTip": "TestNow\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "ToolTip": "C:\\Users\\krist\\source\\repos\\TestNow\\TestNow\\Program.cs",
+              "RelativeToolTip": "TestNow\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T17:14:19.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "json.json",
               "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\TestNow\\TestNow\\json.json",
               "RelativeDocumentMoniker": "TestNow\\json.json",
               "ToolTip": "C:\\Users\\krist\\source\\repos\\TestNow\\TestNow\\json.json",
               "RelativeToolTip": "TestNow\\json.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-10T14:21:39.227Z"
+              "WhenOpened": "2024-06-10T14:21:39.227Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\TestNow\\TestNow\\App.config",
               "RelativeDocumentMoniker": "TestNow\\App.config",
@@ -84,8 +68,7 @@
               "RelativeToolTip": "TestNow\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-06T14:40:01.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T14:40:01.314Z"
             }
           ]
         }
