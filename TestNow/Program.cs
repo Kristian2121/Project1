@@ -25,7 +25,7 @@ namespace TestNow
 
         static async Task Main(string[] args)
         {
-            botClient = new TelegramBotClient("YOUR_BOT_API_KEY_HERE");
+            botClient = new TelegramBotClient("7467417422:AAEAAMYecsSPSBnNHQw_dxUkrAOm1Xux7oc");
             var me = await botClient.GetMeAsync();
             Console.WriteLine($"Hi, my username is {me.Id} my name is {me.FirstName}.");
             botClient.OnMessage += Bot_OnMessage;
@@ -47,7 +47,7 @@ namespace TestNow
 
         static async Task<string> GetWeatherInfo(string message)
         {
-            string apiKey = "YOUR_OPENWEATHERMAP_API_KEY_HERE";
+            string apiKey = "a3d6d40ea2d819407c5923d19ac5a418";
             string apiURL = $"https://api.openweathermap.org/data/2.5/weather?lat=43.0033&lon=41.0153&appid={apiKey}&units=metric";
 
             using (HttpClient client = new HttpClient())
