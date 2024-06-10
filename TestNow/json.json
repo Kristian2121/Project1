@@ -1,0 +1,42 @@
+﻿{
+  "coord": {
+    "lon": 41.0153,
+    "lat": 43.0033
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 297.35,
+    "feels_like": 297.58,
+    "temp_min": 297.35,
+    "temp_max": 297.35,
+    "pressure": 1014,
+    "humidity": 67,
+    "sea_level": 1014,
+    "grnd_level": 997
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.45,
+    "deg": 146,
+    "gust": 4.37
+  },
+  "clouds": { "all": 98 },
+  "dt": 1718017814,
+  "sys": {
+    "country": "GE",
+    "sunrise": 1717983401,
+    "sunset": 1718038464
+  },
+  "timezone": 14400,
+  "id": 611847,
+  "name": "Sukhumi",
+  "cod": 200
+}
